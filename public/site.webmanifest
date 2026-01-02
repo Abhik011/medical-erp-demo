@@ -1,0 +1,28 @@
+{
+  "name": "Creonox Medical ERP",
+  "short_name": "Creonox ERP",
+  "description": "Complete pharmacy ERP with POS billing, GST invoices, inventory, batch & expiry control, CRM, HRM and compliance.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#f7f6ff",
+  "theme_color": "#6d5dfc",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/clogo.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/clogo.svg",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/clogo.svg",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

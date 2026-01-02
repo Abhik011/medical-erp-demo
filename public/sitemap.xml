@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+
+  <!-- ================= CORE ================= -->
+  <url>
+    <loc>http://localhost:3000/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/login</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/dashboard</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ================= POS ================= -->
+  <url>
+    <loc>http://localhost:3000/pos</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/pos/return</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/pos/invoices</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ================= INVENTORY ================= -->
+  <url>
+    <loc>http://localhost:3000/inventory</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/inventory/batches</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/inventory/transfer</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/inventory/po</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/inventory/grn</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/inventory/purchase-return</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/inventory/expiry-return</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/inventory/adjustment</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ================= SUPPLIERS ================= -->
+  <url>
+    <loc>http://localhost:3000/suppliers</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/suppliers/ledger</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/suppliers/returns</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ================= CRM ================= -->
+  <url>
+    <loc>http://localhost:3000/crm/customers</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/crm/leads</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/crm/followups</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/crm/support</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ================= HRM ================= -->
+  <url>
+    <loc>http://localhost:3000/hrm/employees</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/hrm/attendance</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/hrm/payroll</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/hrm/leave</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ================= COMPLIANCE ================= -->
+  <url>
+    <loc>http://localhost:3000/compliance/schedule-h</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/compliance/prescriptions</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/compliance/expiry-log</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ================= REPORTS & PROFILE ================= -->
+  <url>
+    <loc>http://localhost:3000/reports</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/profile</loc>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
